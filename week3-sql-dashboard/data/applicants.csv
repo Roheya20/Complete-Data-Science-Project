@@ -1,0 +1,64 @@
+applicant_id,Applicant Name,Email,Phone,Domain Applied,University,Application Date,Status,Domain Original
+1,Grace Njeri,grace.njeri25@gmail.com,0788963003,Web Development,ALU,2026-05-25,Selected,Web Development
+2,Fatou Jallow,fatou.jallow44@gmail.com,0788985669,AI,ALU,2026-06-13,Rejected,Machine Learning
+3,Sara Ahmed,sara.ahmed35@gmail.com,0788982709,Web Development,ALU,2026-06-04,Under Review,Web Development
+4,Aminata Koroma,aminata.koroma16@gmail.com,0788150626,AI,ALU,2026-05-16,Rejected,AI
+5,Linda Brown,linda.brown31@gmail.com,0788851138,AI,ALU,2026-05-31,Selected,Machine Learning
+6,James Okafor,james.okafor27@gmail.com,0788970640,Data Science,ALU,2026-05-27,Rejected,Data Science
+7,Sarah Conteh,sarah.conteh11@gmail.com,0788502251,AI,University of The Gambia,2026-05-11,Selected,Machine Learning
+8,Fatima Sesay,fatima.sesay42@gmail.com,0788613432,AI,University of Kigali,2026-06-11,Rejected,Machine Learning
+9,Aminata Koroma,aminata.koroma45@gmail.com,0788524925,AI,ALU,2026-06-14,Selected,Machine Learning
+10,Samuel Bah,samuel.bah18@gmail.com,0788675596,Cybersecurity,University of Rwanda,2026-05-18,Selected,Cybersecurity
+11,Linda Brown,linda.brown21@gmail.com,0788385019,Web Development,University of The Gambia,2026-05-21,Under Review,Web Development
+12,Sarah Conteh,sarah.conteh10@gmail.com,0788897024,Cybersecurity,University of Rwanda,2026-05-10,Selected,Cybersecurity
+13,Sara Ahmed,sara.ahmed4@gmail.com,0788960336,AI,ALU,2026-05-04,Under Review,AI
+14,Peter Mensah,peter.mensah33@gmail.com,0788864743,Cybersecurity,University of Kigali,2026-06-02,Selected,Cybersecurity
+15,John Smith,john.smith30@gmail.com,0788320199,AI,University of The Gambia,2026-05-30,Rejected,Machine Learning
+16,Daniel Jones,daniel.jones39@gmail.com,0788437057,AI,ALU,2026-06-08,Selected,Machine Learning
+17,Sara Ahmed,sara.ahmed1@gmail.com,0788647875,Data Science,University of Kigali,2026-05-01,Selected,Data Science
+18,David Kamau,david.kamau37@gmail.com,0788441106,Web Development,University of Rwanda,2026-06-06,Under Review,Web Development
+19,Grace Njeri,grace.njeri17@gmail.com,0788686362,AI,University of Rwanda,2026-05-17,Selected,AI
+20,Linda Brown,linda.brown28@gmail.com,0788117004,Data Science,University of Kigali,2026-05-28,Rejected,Data Science
+21,Aisha Jallow,aisha.jallow@gmail.com,0788844840,AI,University of Kigali,2026-05-31,Rejected,Machine Learning
+22,Ali Khan,ali.khan41@gmail.com,0788923780,Web Development,University of Rwanda,2026-06-10,Selected,Web Development
+23,Ibrahim Keita,ibrahim.keita12@gmail.com,0788981961,AI,University of Rwanda,2026-05-12,Under Review,AI
+24,James Okafor,james.okafor22@gmail.com,0788102235,Data Science,University of Rwanda,2026-05-22,Selected,Data Science
+25,Omar Diallo,omar.diallo20@gmail.com,0788671062,AI,University of The Gambia,2026-05-20,Selected,AI
+26,Musa Bah,musa.bah15@gmail.com,0788619907,AI,University of Kigali,2026-05-15,Rejected,Machine Learning
+27,Mary Johnson,mary.johnson9@gmail.com,0788475315,AI,ALU,2026-05-09,Selected,Machine Learning
+28,James Okafor,james.okafor13@gmail.com,0788207980,AI,University of Kigali,2026-05-13,Under Review,AI
+29,Omar Diallo,omar.diallo14@gmail.com,0788510226,Data Science,University of Kigali,2026-05-14,Under Review,Data Science
+30,Ali Khan,ali.khan26@gmail.com,0788900120,Cybersecurity,University of The Gambia,2026-05-26,Selected,Cybersecurity
+31,John Smith,john.smith34@gmail.com,0788206363,Data Science,University of Rwanda,2026-06-03,Selected,Data Science
+32,Ali Khan,ali.khan36@gmail.com,0788671287,AI,University of Kigali,2026-06-05,Rejected,Machine Learning
+33,John Smith,john.smith5@gmail.com,0788991072,Cybersecurity,University of Kigali,2026-05-05,Under Review,Cybersecurity
+34,Ruth Kamau,ruth.kamau6@gmail.com,0788917657,AI,University of The Gambia,2026-05-06,Rejected,AI
+35,Michael Toure,michael.toure7@gmail.com,0788560571,Cybersecurity,University of Kigali,2026-05-07,Selected,Cybersecurity
+36,Peter Mensah,peter.mensah29@gmail.com,0788121240,AI,University of Rwanda,2026-05-29,Selected,Machine Learning
+37,Samuel Bah,samuel.bah38@gmail.com,0788997163,AI,University of Rwanda,2026-06-07,Selected,AI
+38,Grace Njeri,grace.njeri2@gmail.com,0788943474,Cybersecurity,University of Rwanda,2026-05-02,Under Review,Cybersecurity
+39,John Smith,john.smith22@gmail.com,0788456123,Data Science,University of Rwanda,2026-06-09,Selected,Data Science
+40,Aisha Jallow,aisha.jallow19@gmail.com,0788234567,AI,ALU,2026-06-15,Under Review,AI
+41,Mariam Touray,mariam.touray20@gmail.com,0788345678,Web Development,University of The Gambia,2026-06-16,Selected,Web Development
+42,Ousman Sanneh,ousman.sanneh21@gmail.com,0788456789,Cybersecurity,University of Kigali,2026-06-17,Rejected,Cybersecurity
+43,Binta Jobe,binta.jobe22@gmail.com,0788567890,AI,University of Rwanda,2026-06-18,Selected,Machine Learning
+44,Kebba Sowe,kebba.sowe23@gmail.com,0788678901,Data Science,ALU,2026-06-19,Under Review,Data Science
+45,Khadija Okafor,khadija.okafor24@gmail.com,0788789012,AI,University of The Gambia,2026-06-20,Rejected,AI
+46,Ali Khan,ALI.KHAN@GMAIL.COM,03011234567,Web Development,UoK,,Under Review,web dev
+47,David Kamau ,david.kamau@gmail.com, 07883456701 ,Cybersecurity,UR,2026-05-05,Selected,Cybersecurity
+48,Grace Njeri,grace.njeri@gmail.com,0788 488 750,Cybersecurity,University of Kigali,2026-05-30,Selected,cyber security
+49,Musa Bah,,0788177662,AI,University Of The Gambia,2026-06-01,Under Review,Artificial Intelligence
+50,Peter Mensah ,PETER.MENSAH.@GMAIL.COM,0788724216,AI,Not specified,2026-06-28,Selected,ML
+51,Daniel Jones,DANIEL.JONES@GMAIL.COM,0788426091,Data Science,Not specified,2026-05-26,Under Review,Data Science
+52,Musa Bah ,.MUSA.BAH.@GMAIL.COM,03010788710580,AI, ,,Selected,ML
+53, Fatou Jallow ,fatou.jallow@gmail.com,0788 100316,Web Development,Univ. of Kigali,,Selected,Web dev
+54,Musa Bah,musa.bah@gmail.com,0788 719417,Web Development,ALU,,Selected,web dev
+55,Aminata Koroma,AMINATA.KOROMA@GMAIL.COM,03010788127955,Web Development,alu,,Rejected,WEB DEV
+56,Fatou Jallow,fatou.jallow50@gmail.com,0788123456,Web Development,ALU,2026-06-21,Selected,Web Development
+57,Lamin Sanyang,lamin.sanyang51@gmail.com,0788234567,Data Science,University of The Gambia,2026-06-22,Under Review,Data Science
+58,Binta Jobe,binta.jobe52@gmail.com,0788345678,AI,University of Rwanda,2026-06-23,Rejected,AI
+59,Ousman Sanneh,ousman.sanneh53@gmail.com,0788456789,Cybersecurity,University of Kigali,2026-06-24,Selected,Cybersecurity
+60,Hawa Jallow,hawa.jallow61@gmail.com,0788123456,Data Science,University of The Gambia,2026-06-25,Selected,Data Science
+61,Modou Sarr,modou.sarr62@gmail.com,0788234567,AI,ALU,2026-06-26,Under Review,Machine Learning
+62,Mariama Ceesay,mariama.ceesay63@gmail.com,0788345678,AI,University of Kigali,2026-06-27,Rejected,AI
+63,Abdoulie Manneh,abdoulie.manneh64@gmail.com,0788456789,Cybersecurity,University of Rwanda,2026-06-28,Selected,Cybersecurity
